@@ -142,7 +142,7 @@ class Disambiguator(private var dict: RiWordNet){
             println("Verrà ora individuato il senso o i sensi con maggior overlap.")
             writer.println("La parola scelta è ${p[i]}")
             writer.println("All'interno della frase: ${c[i]}")
-            writer.println("Verrà ora individuato il senso o i sensi con maggior overlap.")
+            writer.println("Senso con maggior overlap:")
             var max = 0
             results[i].forEach {
                 if (it.value > max) max = it.value
@@ -280,7 +280,7 @@ class Disambiguator(private var dict: RiWordNet){
             println("Verrà ora individuato il senso o i sensi con maggior overlap.")
             writer.println("La parola scelta è ${p[i]}")
             writer.println("All'interno della frase: ${c[i]}")
-            writer.println("Verrà ora individuato il senso o i sensi con maggior overlap.")
+            writer.println("Senso con maggior overlap:")
             var max = 0
             results[i].forEach {
                 if (it.value > max) max = it.value
