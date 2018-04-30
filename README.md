@@ -1,10 +1,20 @@
 # NLP-exercises
 This repository contains all the exercises developed for TLN course (2017/2018) in University of Turin 
-# Ex1
+## Ex1
 Concept Similarity in WordNet
-# Ex2
+
+### Libraries
+[JWI 2.4.0 - MIT Java Wordnet Interface](https://projects.csail.mit.edu/jwi/)
+
+## Ex2
 Word Sense Disambiguation in WordNet
-# Ex3
+
+### Libraries
+[RiTa](https://rednoise.org/rita/)
+[Stanford CoreNLP – Natural language software](https://stanfordnlp.github.io/CoreNLP/)
+
+## Ex3
 Word Sense Disambiguation in BabelNet
-# Ex4
+
+## Ex4
 Automatic Summarization
