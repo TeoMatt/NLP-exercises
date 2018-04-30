@@ -15,7 +15,13 @@ var dict = Dictionary ( File("./WordNet-3.0/dict") )
 
 fun main(args: Array<String>) {
 
-    println(concSimilarityDebug("dog", "cat"))
+    var file = File("./files/ex1/100_pairs-updated.txt")
+    var wordList = file.readLines()
+    wordList.forEach {
+        var p1 = it.split("\t")[0]
+        var p2 = it.split("\t")[1]
+        println(concSimilarity(p1, p2))
+    }
 
 }
 
@@ -77,6 +83,12 @@ fun concSimilarity(p1: String, p2:String): Double{
 
     val idxWord1 = dict.getIndexWord(w1, POS.NOUN)
     val idxWord2 = dict.getIndexWord(w2, POS.NOUN)
+    println("$p1,$p2")
+
+    if (idxWord1 == null || idxWord2 == null) {
+        println("$p1,$p2++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++")
+        return 0.0
+    }
 
     var cs = 0.0
 
