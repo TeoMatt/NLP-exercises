@@ -1,0 +1,98 @@
+La parola scelta è arms
+All'interno della frase: Arms bend at the elbow
+Verrà ora individuato il senso o i sensi con maggior overlap.
+Synset: [arm]
+Gloss: a human limb; technically the part of the superior limb between the shoulder and the elbow but commonly used to refer to the whole superior limb
+-----------------------------------------------------------------------------------------
+____________________________________________________________________________________________
+La parola scelta è arms
+All'interno della frase: Germany sells arms to Saudi Arabia
+Verrà ora individuato il senso o i sensi con maggior overlap.
+Synset: [arm, branch, limb]
+Gloss: any projection that is thought to resemble a human arm
+-----------------------------------------------------------------------------------------
+____________________________________________________________________________________________
+La parola scelta è key
+All'interno della frase: The key broke in the lock
+Verrà ora individuato il senso o i sensi con maggior overlap.
+Synset: [key]
+Gloss: metal device shaped in such a way that when it is inserted into the appropriate lock the lock's mechanism can be rotated
+-----------------------------------------------------------------------------------------
+____________________________________________________________________________________________
+La parola scelta è key
+All'interno della frase: The key problem was not one of quality but of quantity
+Verrà ora individuato il senso o i sensi con maggior overlap.
+Synset: [key]
+Gloss: something crucial for explaining
+-----------------------------------------------------------------------------------------
+____________________________________________________________________________________________
+La parola scelta è solution
+All'interno della frase: Work out the solution in your head
+Verrà ora individuato il senso o i sensi con maggior overlap.
+Synset: [solution]
+Gloss: a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution
+-----------------------------------------------------------------------------------------
+____________________________________________________________________________________________
+La parola scelta è solution
+All'interno della frase: Heat the solution to 75° Celsius
+Verrà ora individuato il senso o i sensi con maggior overlap.
+Synset: [solution]
+Gloss: a homogeneous mixture of two or more substances; frequently (but not necessarily) a liquid solution
+-----------------------------------------------------------------------------------------
+____________________________________________________________________________________________
+La parola scelta è ashes
+All'interno della frase: The house was burnt to ashes while the owner returned
+Verrà ora individuato il senso o i sensi con maggior overlap.
+Synset: [ash]
+Gloss: the residue that remains when something is burned
+-----------------------------------------------------------------------------------------
+____________________________________________________________________________________________
+La parola scelta è ash
+All'interno della frase: This table is made of ash wood
+Verrà ora individuato il senso o i sensi con maggior overlap.
+Synset: [ash]
+Gloss: strong elastic wood of any of various ash trees; used for furniture and tool handles and sporting goods such as baseball bats
+-----------------------------------------------------------------------------------------
+____________________________________________________________________________________________
+La parola scelta è lunch
+All'interno della frase: The lunch with her boss took longer than she expected
+Verrà ora individuato il senso o i sensi con maggior overlap.
+Synset: [lunch, luncheon, tiffin, dejeuner]
+Gloss: a midday meal
+-----------------------------------------------------------------------------------------
+____________________________________________________________________________________________
+La parola scelta è lunch
+All'interno della frase: She packed her lunch in her purse
+Verrà ora individuato il senso o i sensi con maggior overlap.
+Synset: [lunch, luncheon, tiffin, dejeuner]
+Gloss: a midday meal
+-----------------------------------------------------------------------------------------
+____________________________________________________________________________________________
+La parola scelta è classification
+All'interno della frase: The classification of the genetic data took two years
+Verrà ora individuato il senso o i sensi con maggior overlap.
+Synset: [categorization, categorisation, classification, compartmentalization, compartmentalisation, assortment]
+Gloss: the act of distributing things into classes or categories of the same type
+-----------------------------------------------------------------------------------------
+____________________________________________________________________________________________
+La parola scelta è classification
+All'interno della frase: The journal Science published the classification this month
+Verrà ora individuato il senso o i sensi con maggior overlap.
+Synset: [categorization, categorisation, classification, compartmentalization, compartmentalisation, assortment]
+Gloss: the act of distributing things into classes or categories of the same type
+-----------------------------------------------------------------------------------------
+____________________________________________________________________________________________
+La parola scelta è wood
+All'interno della frase: His cottage is near a small wood
+Verrà ora individuato il senso o i sensi con maggior overlap.
+Synset: [wood]
+Gloss: a golf club with a long shaft used to hit long shots; originally made with a wooden head
+-----------------------------------------------------------------------------------------
+____________________________________________________________________________________________
+La parola scelta è wood
+All'interno della frase: The statue was made out of a block of wood
+Verrà ora individuato il senso o i sensi con maggior overlap.
+Synset: [wood]
+Gloss: a golf club with a long shaft used to hit long shots; originally made with a wooden head
+-----------------------------------------------------------------------------------------
+____________________________________________________________________________________________

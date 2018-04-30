@@ -1,0 +1,100 @@
+car	bicycle
+polyhedron	actor
+fault	system
+weapon	helmet
+screenwriter	television
+basilica	mosaic
+watercolor painting	brush
+democracy	monarchy
+self-driving car	autonomous car
+apocalypse	fire
+speed	post
+laptop	notebook
+snowboard	skiing
+pointer	slide
+sensor	radiator
+hit	frame
+theory	hypothesis
+actor	actress
+film	theatre
+national anthem	patriotism
+screen	monitor
+dairy	honey
+pesticide	pest
+policeman	politician
+neuropsychology	parapsychology
+battery	energy
+peninsula	island
+equator	Ecuador
+chart	graph
+simulation	robotics
+society	culture
+strategy game	strategy
+church	cathedral
+translator	foreigner
+biotope	biology
+magma	volcano
+brainstorming	telescope
+level	score
+penny	bargain
+political party	association
+tsunami	sea
+ostrich	orchard
+cinnamon	candy
+broom	dust
+galaxy	astronomer
+juice	milkshake
+criminal	offender
+pancreatic cancer	chemotherapy
+past	antecedent
+song	performer
+gun	notebook
+acetylcholine	iris
+alphabet	pen
+chorus	singer
+wood	blanket
+soldier	peace
+lizard	crocodile
+money	cash
+calendar	holiday
+base	chemical substance
+government	lizard
+chess	check
+sonnet	beauty
+worker	office
+currency	exchange
+polyester	cotton
+tribunal	justice
+tail	rear
+accident	book
+squall	wind
+piano	harmony
+sultan	ministry
+desert	dune
+multiplication	division
+virus	blood
+ice age	statute
+sword	environment
+elementary school	pen
+cricket	supporter
+sculpture	statue
+dress	dance
+array	list
+cell	lock-up
+essay	homework
+computer	machine
+panda	polar bear
+neurosis	mind
+campaign	monkey
+palace	skyscraper
+helicopter	plane
+flag	pole
+window	roof
+card game	frisbee
+malware	worm
+planet	star
+runner	athlete
+caliber	umbrella
+drought	water
+airport	piece
+orchestra	band
