@@ -1,5 +1,6 @@
 # NLP-exercises
-This repository contains all the exercises developed for TLN course (2017/2018) in University of Turin 
+This repository contains all the exercises developed for TLN course (2017/2018) - University of Turin.
+For these exercises [Kotlin Programming Language](https://kotlinlang.org/) had been used.
 ## Ex1
 Concept Similarity in WordNet
 
