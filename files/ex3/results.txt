@@ -1,0 +1,126 @@
+La frase è: La pianta dell'alloggio è disponibile in ufficio, accanto all'appartamento; dal disegno è possibile cogliere i dettagli dell'architettura dello stabile, sulla distribuzione dei vani e la disposizione di porte e finestre.
+La parola da disambiguare è: pianta
+La parola è stata disambiguata come: [Disegno e studio che determina la struttura di qualcosa, Disegno della vista dall'alto o della sezione orizzontale di una costruzione o dei suoi singoli ambienti interni.]
+I sinonimi individuati sono: [progetto, piantina, planimetria, pianta, progetto_architettonico, disegno, disegni, progettazione_architettonica]
+
+-----------------------------------------------------------------
+
+La frase è: I platani sono piante ad alto fusto, organismi viventi: non ha senso toglierli per fare posto a un parcheggio.
+La parola da disambiguare è: pianta
+La parola è stata disambiguata come: [Organismo appartenente al regno vegetale costituito da radici, fusto, foglie e talora fiori e frutti;nome generico di ogni vegetale arboreo, arbustaceo o erbaceo., Nome generico di ogni vegetale arboreo, arbustaceo o erbaceo, Le piante sono un regno di esseri viventi che comprende circa 350.000 specie, identificate comunemente con i nomi di alberi, arbusti, cespugli, erbe, rampicanti, succulente, felci, muschi e molti altri ancora., La flora costituisce l'elencazione, la descrizione e la classificazione quanto più possibile completa delle specie vegetali presenti sul territorio stesso., Descrizione e classificazione delle specie vegetali, Regno degli organismi vegetali, Ogni organismo vivente che sintetizza il suo cibo da sostanze inorganiche, possiede membrane cellulari di cellulosa, risponde lentamente e spesso in modo identico ad uno stimolo, manca di organi di senso specializzati e del sistema nervoso, e non ha poteri di locomozione.]
+I sinonimi individuati sono: [pianta, flora, vegetale, organismo_vegetale, Plantae, Piante, Floristica, Plantæ, specie_vegetale, vita_vegetale, vegetazione, Pianta, Vegetale, Vegetali, Flora, Regno_vegetale, piante, flore, specie_di_piante]
+
+-----------------------------------------------------------------
+
+La frase è: Non riesce ad appoggiare la pianta del piede perché ha un profondo taglio vicino all'alluce.
+La parola da disambiguare è: pianta
+La parola è stata disambiguata come: [Organismo appartenente al regno vegetale costituito da radici, fusto, foglie e talora fiori e frutti;nome generico di ogni vegetale arboreo, arbustaceo o erbaceo., Nome generico di ogni vegetale arboreo, arbustaceo o erbaceo, Le piante sono un regno di esseri viventi che comprende circa 350.000 specie, identificate comunemente con i nomi di alberi, arbusti, cespugli, erbe, rampicanti, succulente, felci, muschi e molti altri ancora., La flora costituisce l'elencazione, la descrizione e la classificazione quanto più possibile completa delle specie vegetali presenti sul territorio stesso., Descrizione e classificazione delle specie vegetali, Regno degli organismi vegetali, Ogni organismo vivente che sintetizza il suo cibo da sostanze inorganiche, possiede membrane cellulari di cellulosa, risponde lentamente e spesso in modo identico ad uno stimolo, manca di organi di senso specializzati e del sistema nervoso, e non ha poteri di locomozione.]
+I sinonimi individuati sono: [pianta, flora, vegetale, organismo_vegetale, Plantae, Piante, Floristica, Plantæ, specie_vegetale, vita_vegetale, vegetazione, Pianta, Vegetale, Vegetali, Flora, Regno_vegetale, piante, flore, specie_di_piante]
+
+-----------------------------------------------------------------
+
+La frase è: Si tratta di un uomo facilmente riconoscibile: ha una testa piccola, gli occhi sporgenti, naso adunco e piccole orecchie a sventola.
+La parola da disambiguare è: testa
+La parola è stata disambiguata come: [La regione anatomica contente il cervello e gli organi specifici di senso;negli uomini e negli animali, la parte del corpo che contiene il cervello;negli uomini e negli animali, la parte del corpo che contiene il cervello e i principali organi di senso., Negli uomini e negli animali, la parte del corpo che contiene il cervello e i principali organi di senso, Negli uomini e negli animali, la parte del corpo che contiene il cervello, In anatomia, la testa di un animale è la parte superiore del corpo, dove sono situati in genere gli occhi, la bocca, le orecchie, il naso e il cervello., Parte rostrale del corpo, Parte del corpo di un animale o di un uomo, che contiene il cervello, la bocca e i principali organi di senso.]
+I sinonimi individuati sono: [testa, cranio, capo, Cefalica, chiorba, zucca, capoccia, Calotta_cranica, cefalica]
+
+-----------------------------------------------------------------
+
+La frase è: Come per tutte le cose, bisogna usare la testa, una punta di cervello, per non prendere decisioni fuori dal senso dell'intelletto.
+La parola da disambiguare è: testa
+La parola è stata disambiguata come: [Ciò che è responsabile dei pensieri e dei sentimenti;la sede della facoltà della ragione., Noûs contrazione dell'analogo ionico νόος,, è un termine che in greco antico indica, a partire da Omero, la facoltà di comprendere un evento o le intenzioni di qualcuno, la facoltà mentale quindi l'intelletto., Il termine mente è comunemente utilizzato per descrivere l'insieme delle funzioni superiori del cervello e, in particolare, quelle di cui si può avere soggettivamente coscienza in diverso grado, quali la sensazione, il pensiero, l'intuizione, la ragione, la memoria, la volontà., Psiche è un termine con cui tradizionalmente si usa individuare l'insieme di quelle funzioni cerebrali, emotive, affettive e relazionali dell'individuo, che esulano dalla sua dimensione corporea e materiale., Emotive, affettive e relazionali dell `individuo, Insieme delle funzioni superiori del cervello, Termine della psicologia, Il complesso delle facoltà cognitive, perlopiù caratteristiche degli esseri umani, che permettono la coscienza, il pensiero, la percezione e il giudizio razionale.]
+I sinonimi individuati sono: [mente, psiche, pensiero, cervello, Psiche, psicologia, Nous, Intelletto_cosmico, testa, Intelligenza_cosmica, testare, Noos, Mente_umana, nous, contenuto_mentale, mente_umana]
+
+-----------------------------------------------------------------
+
+La frase è: La testa della struttura di parsing è l'elemento che corrisponde al sintagma più alto dell'albero; in genere si tratta di un verbo.
+La parola da disambiguare è: testa
+La parola è stata disambiguata come: [La regione anatomica contente il cervello e gli organi specifici di senso;negli uomini e negli animali, la parte del corpo che contiene il cervello;negli uomini e negli animali, la parte del corpo che contiene il cervello e i principali organi di senso., Negli uomini e negli animali, la parte del corpo che contiene il cervello e i principali organi di senso, Negli uomini e negli animali, la parte del corpo che contiene il cervello, In anatomia, la testa di un animale è la parte superiore del corpo, dove sono situati in genere gli occhi, la bocca, le orecchie, il naso e il cervello., Parte rostrale del corpo, Parte del corpo di un animale o di un uomo, che contiene il cervello, la bocca e i principali organi di senso.]
+I sinonimi individuati sono: [testa, cranio, capo, Cefalica, chiorba, zucca, capoccia, Calotta_cranica, cefalica]
+
+-----------------------------------------------------------------
+
+La frase è: Amo andare a cavallo, ogni mattino, nel parco.
+La parola da disambiguare è: cavallo
+La parola è stata disambiguata come: [Attrezzo ginnico]
+I sinonimi individuati sono: [cavallo, cavallo_ginnastica]
+
+-----------------------------------------------------------------
+
+La frase è: Il cavallo di questi calzoni è troppo basso per la mia taglia.
+La parola da disambiguare è: cavallo
+La parola è stata disambiguata come: [Grande quadrupede domestico, con lunghi arti, testa allungata, criniera e folta coda, largamente diffuso, allevato per vari scopi, specialmente come cavalcatura o animale da tiro, Il cavallo domestico è un mammifero di medio-grossa taglia appartenente all'ordine dei Perissodactyla, sottordine degli Hippomorpha, unico della famiglia Equidae, genere Equus, specie Equus ferus, sottospecie Equus ferus caballus, Mammifero ungulato, Mammifero perissodattilo di grossa taglia, Grande animale quadrupede che può essere usato per cavalcare o per trasportare oggetti o trainare veicoli.]
+I sinonimi individuati sono: [cavallo, Equus_caballus, Carne_di_cavallo, Giumenta, Cavallo, Le_razze_equine, Razza_equina, Razze_equine, Equus_ferus_caballus, caballus, equini, equus_caballus, cavalli]
+
+-----------------------------------------------------------------
+
+La frase è: In palestra sono bravissima nel saltare il cavallo.
+La parola da disambiguare è: cavallo
+La parola è stata disambiguata come: [Attrezzo ginnico]
+I sinonimi individuati sono: [cavallo, cavallo_ginnastica]
+
+-----------------------------------------------------------------
+
+La frase è: La mia macchina ha 120 cavalli di potenza.
+La parola da disambiguare è: cavallo
+La parola è stata disambiguata come: [Il cavallo vapore è il nome dell'unità di misura della potenza., Nome di varie unità di misura della potenza, Unità di misura, Unità di misura della potenza pari a quella di un cavallo che tira 55 libbre alla velocità di 10 metri al secondo, cioè 745,7 Watt.]
+I sinonimi individuati sono: [cavallo_vapore, Cavallo-vapore, cv, Cavalli_vapore, cavallo, Cavallo_Vapore, cavalli_di_potenza_nominale, hp, cavalli_di_potenza, ihp, potenza_al_freno, h.p., cavalli]
+
+-----------------------------------------------------------------
+
+La frase è: Mi manca poco per concludere il lavoro: sono quasi a cavallo.
+La parola da disambiguare è: cavallo
+La parola è stata disambiguata come: [Attrezzo ginnico]
+I sinonimi individuati sono: [cavallo, cavallo_ginnastica]
+
+-----------------------------------------------------------------
+
+La frase è: Il fattore dirige la coltivazione dei campi per conto dei proprietari.
+La parola da disambiguare è: fattore
+La parola è stata disambiguata come: [Chi crea (in particolare opere d'arte);chi crea., Chi crea, Chi crea (in particolare opere d'arte)]
+I sinonimi individuati sono: [creatore, artefice, autore, fattore]
+
+-----------------------------------------------------------------
+
+La frase è: Il fattore principale del suo successo è la sua attitudine analitica.
+La parola da disambiguare è: fattore
+La parola è stata disambiguata come: [Causa di un evento, elemento determinante]
+I sinonimi individuati sono: [fattore, elemento]
+
+-----------------------------------------------------------------
+
+La frase è: I due fattori dell'espressione devono soddisfare la proprietà di essere primi fraloro.
+La parola da disambiguare è: fattore
+La parola è stata disambiguata come: [Chi crea (in particolare opere d'arte);chi crea., Chi crea, Chi crea (in particolare opere d'arte)]
+I sinonimi individuati sono: [creatore, artefice, autore, fattore]
+
+-----------------------------------------------------------------
+
+La frase è: Il rombo è un pesce di mare; porta entrambi gli occhi su di un lato, nella fattispecie il sinistro, ed ha il lato privo di occhi roseo e senza pigmenti; ha la tipica forma quadrangolare.
+La parola da disambiguare è: rombo
+La parola è stata disambiguata come: [L'ordine dei Pleuronectiformes è conosciuto solitamente col nome di pesci piatti., Ordine di pesci]
+I sinonimi individuati sono: [Pleuronectiformes, Pleuronettiformi, rombo, pleuronectiformes_ordine, pesci_piatti, pleuronectiformes]
+
+-----------------------------------------------------------------
+
+La frase è: Il rombo è una figura geometrica i cui quattro lati hanno la stessa lunghezza.
+La parola da disambiguare è: rombo
+La parola è stata disambiguata come: [Figura geometrica a quattro lati, Il rombo o losanga è un poligono di quattro lati che ha tutti i lati della stessa lunghezza ; è un caso particolare di parallelogramma., Figura geometrica, Parallelogramma in cui tutti i lati sono di uguale lunghezza.]
+I sinonimi individuati sono: [rombo, losanga, diamante, rombi]
+
+-----------------------------------------------------------------
+
+La frase è: Ognuna delle 32 sezioni in cui si divide la rosa della bussola, e che corrispondono alle principali direzioni del vento, si dice rombo.
+La parola da disambiguare è: rombo
+La parola è stata disambiguata come: [Figura geometrica a quattro lati, Il rombo o losanga è un poligono di quattro lati che ha tutti i lati della stessa lunghezza ; è un caso particolare di parallelogramma., Figura geometrica, Parallelogramma in cui tutti i lati sono di uguale lunghezza.]
+I sinonimi individuati sono: [rombo, losanga, diamante, rombi]
+
+-----------------------------------------------------------------
+
+La frase è: Le vettovaglie caddero, producendo un rumore sordo, profondo e cupo, simile al rombo di un tuono.
+La parola da disambiguare è: rombo
+La parola è stata disambiguata come: [Forte rumore cupo, Il tuono è il rumore provocato dal fulmine che, a seconda della natura del fulmine e della distanza dall'osservatore, può manifestarsi come un colpo secco e forte oppure come un rombo basso e prolungato., Tuono breve e violento., Suono prodotto dall'espansione dell'aria veloce indotta da un fulmine.]
+I sinonimi individuati sono: [tuono, boato, rombo, fragore, Tuoni, rintronamento, muggito, ruggito, rimbombo, frastuono, rombo_di_tuono]
+
+-----------------------------------------------------------------
+

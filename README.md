@@ -17,5 +17,11 @@ Word Sense Disambiguation in WordNet
 ## Ex3
 Word Sense Disambiguation in BabelNet
 
+### Libraries
+
+* [BabelNet 4.0 Java API](https://babelnet.org/guide)
+* [TreeTagger - a part-of-speech tagger for many languages](http://www.cis.uni-muenchen.de/~schmid/tools/TreeTagger/)
+* [TreeTagger for Java by reckart](https://github.com/reckart/tt4j)
+
 ## Ex4
 Automatic Summarization
