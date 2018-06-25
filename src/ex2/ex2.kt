@@ -128,9 +128,6 @@ class Disambiguator(private var dict: RiWordNet){
 
         println(results)
 
-        println(dict.getGloss(912303921))
-        println(dict.getSynset(912303921).toList())
-
         var file = File("./files/ex2/results-stemming.txt")
         var writer = PrintWriter(file)
 
@@ -171,22 +168,7 @@ class Disambiguator(private var dict: RiWordNet){
     private fun stemming(contexts: List<Set<String>>): MutableList<MutableSet<String>> {
         var normalizedContexts = mutableListOf<MutableSet<String>>()
         contexts.forEach {
-            var currentSet = mutableSetOf<String>()
-            for (i in it.toList().indices){
-                var st = dict.getStems(it.toList()[i].toLowerCase(),RiWordNet.NOUN)
-                when{
-                    st.isEmpty() -> {
-                        var stbis = dict.getStems(it.toList()[i].toLowerCase(),RiWordNet.VERB)
-                        when{
-                            stbis.isEmpty() -> {}
-                            stbis.size >= 1 -> currentSet.add(stbis[0])
-                        }
-                    }
-                    st.size >= 1 -> currentSet.add(st[0])
-                }
-            }
-            //println(currentSet)
-            normalizedContexts.add(currentSet)
+            normalizedContexts.add(stemming(it))
         }
 
         return normalizedContexts
@@ -195,7 +177,7 @@ class Disambiguator(private var dict: RiWordNet){
     private fun stemming(contexts: Set<String>): MutableSet<String> {
         var normalizedContexts = mutableSetOf<String>()
         contexts.forEach {
-            var currentSet = mutableSetOf<String>()
+
             var st = dict.getStems(it.toLowerCase(),RiWordNet.NOUN)
             when{
                 st.isEmpty() -> {
@@ -205,7 +187,7 @@ class Disambiguator(private var dict: RiWordNet){
                         stbis.size >= 1 -> normalizedContexts.add(stbis[0])
                     }
                 }
-                st.size >= 1 -> normalizedContexts.add(st[0])
+                st.isNotEmpty() -> normalizedContexts.add(st[0])
             }
             //println(normalizedContexts)
         }
@@ -240,9 +222,8 @@ class Disambiguator(private var dict: RiWordNet){
                     normExampleArr[0] = normExampleArr[0].plus(it)
                 }
                 normExampleArr[0] = normExampleArr[0].minus(setOf(" ", "'", ";", ")", "(", ",","."))
-                println("l'array di esempi è lungo ${normExampleArr.size}")
 
-                normExampleArr.forEach { println("esempio normalizzato $it") }
+                normExampleArr.forEach { println("esempi normalizzati $it") }
 
                 var normGloss = getLemmatization(pipeline, dict.getGloss(it)).toMutableSet().minus(stopSet).toMutableSet()
 
@@ -251,7 +232,7 @@ class Disambiguator(private var dict: RiWordNet){
                 else
                     normExampleArr.add(normGloss)
 
-                normExampleArr.forEach { println("QUI$it") }
+                normExampleArr.forEach { println("Gloss + Esempi : $it") }
 
                 println("******************************************************")
                 //ADESSO DEVO VEDERE QUALE ESEMPIO HA IL PIÙ ALTO OVERLAP E USO QUELLO PER FARE IL CONFRONTO CON GLI ALTRI SENSI
@@ -266,8 +247,6 @@ class Disambiguator(private var dict: RiWordNet){
 
         println(results)
 
-        println(dict.getGloss(912303921))
-        println(dict.getSynset(912303921).toList())
 
         var file = File("./files/ex2/results-Stanford-Lemma.txt")
         var writer = PrintWriter(file)

@@ -1,0 +1,500 @@
+Joule spacecraft 0.125
+Promised Land Baku 0.0
+car bicycle 0.8888888888888888
+polyhedron actor 0.18181818181818182
+multiple sclerosis MS 1.0
+fault system 0.6153846153846154
+weapon helmet 0.5555555555555556
+screenwriter television 0.2222222222222222
+United Nations Ban Ki-moon 0.0
+Si-o-seh pol Mathematical Bridge 0.0
+basilica mosaic 0.625
+watercolor painting brush 0.0
+democracy monarchy 0.7692307692307693
+Gauss scientist 0.15384615384615385
+tuberculosis LED 0.08333333333333333
+self-driving car autonomous car 0.0
+apocalypse fire 0.6666666666666666
+speed post 0.7
+PlayStation Wii 0.0
+laptop notebook 0.9230769230769231
+Harry Potter wizard 0.0
+snowboard skiing 0.11764705882352941
+pointer slide 0.625
+sensor radiator 0.8235294117647058
+hit frame 0.375
+theory hypothesis 1.0
+Wall Street financial market 0.0
+Darwin evolution 0.0
+actor actress 0.9333333333333333
+film theatre 0.6666666666666666
+national anthem patriotism 0.25
+screen monitor 0.9
+dairy honey 0.26666666666666666
+Mount Everest Chomolungma 0.0
+tug of war Snakes and Ladders 0.0
+pesticide pest 0.26666666666666666
+policeman politician 0.5714285714285714
+neuropsychology parapsychology 0.26666666666666666
+battery energy 0.5714285714285714
+Legion of Honour stationery 0.0
+Spider-Man street 0.0
+peninsula island 0.8
+equator Ecuador 0.0
+chart graph 0.8
+simulation robotics 0.4
+Nike Adidas 0.0
+society culture 0.9090909090909091
+strategy game strategy 0.0
+church cathedral 0.9473684210526315
+translator foreigner 0.6666666666666666
+biotope biology 0.0
+magma volcano 0.2857142857142857
+brainstorming telescope 0.11764705882352941
+level score 0.6153846153846154
+penny bargain 0.26666666666666666
+political party association 0.8333333333333334
+tsunami sea 0.2857142857142857
+ostrich orchard 0.2727272727272727
+cinnamon candy 0.5263157894736842
+broom dust 0.26666666666666666
+galaxy astronomer 0.23529411764705882
+juice milkshake 0.23529411764705882
+window blind curtain 0.5882352941176471
+criminal offender 0.8571428571428571
+pancreatic cancer chemotherapy 0.14814814814814814
+past antecedent 0.4
+United Nations European Parliament 0.0
+song performer 0.16666666666666666
+gun notebook 0.6086956521739131
+acetylcholine iris 0.2
+alphabet pen 0.11764705882352941
+chorus singer 0.14285714285714285
+wood blanket 0.5882352941176471
+soldier peace 0.13333333333333333
+English American 0.9473684210526315
+lizard crocodile 0.8461538461538461
+money cash 0.875
+Paul the Octopus octopus 0.0
+calendar holiday 0.26666666666666666
+base chemical substance 0.8571428571428571
+government lizard 0.13333333333333333
+JPY money laundering 0.0
+DeepMind Google DeepMind 0.0
+chess check 0.631578947368421
+sonnet beauty 0.2857142857142857
+worker office 0.4
+currency exchange 0.3076923076923077
+polyester cotton 0.8571428571428571
+tribunal justice 0.4
+tail rear 1.0
+accident book 0.36363636363636365
+squall wind 0.9473684210526315
+piano harmony 0.7692307692307693
+sultan ministry 0.2857142857142857
+desert dune 0.15384615384615385
+multiplication division 0.9090909090909091
+virus blood 0.46153846153846156
+ice age statute 0.25
+sword environment 0.35294117647058826
+elementary school pen 0.1111111111111111
+cricket supporter 0.4
+sculpture statue 0.9333333333333333
+web browser Mozilla Firefox 0.0
+Fox Terrier Canon 0.3
+HSBC Britain 0.0
+Bible Gospel 0.8571428571428571
+dress dance 0.625
+array list 0.5
+cell lock-up 0.0
+essay homework 0.631578947368421
+computer machine 0.9411764705882353
+panda polar bear 0.8571428571428571
+neurosis mind 0.2857142857142857
+campaign monkey 0.13333333333333333
+Faraday constant rucksack 0.0
+palace skyscraper 0.7777777777777778
+helicopter plane 0.9166666666666666
+University of Cambridge Oxford University 0.0
+flag pole 0.631578947368421
+window roof 0.6666666666666666
+card game frisbee 0.13333333333333333
+malware worm 0.0
+planet star 0.8571428571428571
+runner athlete 0.9230769230769231
+caliber umbrella 0.2857142857142857
+WiFi WikiLeaks 0.0
+drought water 0.2
+airport piece 0.6666666666666666
+orchestra band 0.8571428571428571
+mojito mohito 0.0
+syllabus exam 0.3076923076923077
+theorem theory 0.8
+yo-yo toy 0.9230769230769231
+blizzard rain 0.7368421052631579
+historian historiographer 1.0
+Siemens electric train 0.0
+century year 0.8333333333333334
+alloy steel 0.9230769230769231
+magistrate judge 0.9230769230769231
+chaos class 0.46153846153846156
+distance education internet 0.0
+sand foot 0.26666666666666666
+IMF Deutsche Bank 0.0
+Guardian Times 0.16666666666666666
+silkworm Silk Road 0.0
+freedom oasis 0.15384615384615385
+cytoplasm digit 0.2857142857142857
+protestant christian 0.9230769230769231
+Leonardo da Vinci The Last Supper 0.0
+map square 0.7142857142857143
+parliament congress 0.875
+fundraising development 0.0
+pathology hematology 0.88
+valley depression 0.9090909090909091
+telescope chair 0.7619047619047619
+heavy metal stage 0.3076923076923077
+globalism visa 0.0
+bat vampire 0.3333333333333333
+deputy officer 0.875
+electricity case 0.5333333333333333
+alien outlander 1.0
+button sewing machine 0.7777777777777778
+wizard cable 0.2857142857142857
+philosopher racing 0.14285714285714285
+popcorn cinema 0.36363636363636365
+agriculture plant 0.3
+poet journalist 0.8571428571428571
+weather wave 0.9411764705882353
+civilization lifestyle 0.5
+snow ice 0.625
+World War II Beethoven 0.0
+motherboard mainboard 0.0
+club mark 0.5882352941176471
+Alexander the Great conqueror 0.0
+app galaxy 0.0
+cloud computing rain 0.0
+television actor 0.26666666666666666
+delta sea 0.4
+yarn thread 1.0
+pedestrian crossing person 0.47058823529411764
+protein handle 0.3076923076923077
+U2 Ronaldo 0.0
+Apple iPhone 0.0
+peppermint gum 0.9166666666666666
+poster paper 0.5
+UNICEF root 0.3076923076923077
+xenophobia racism 0.2
+Woody Allen lens 0.0
+lamp genie 0.1111111111111111
+navy island 0.15384615384615385
+wall castle 0.7058823529411765
+dinosaur elephant 0.6923076923076923
+clock tower stone 0.6666666666666666
+Middle East Euphrates 0.0
+meadow grassland 0.9230769230769231
+guitar violin 0.8571428571428571
+diplomacy negotiation 0.9333333333333333
+gravity meteor 0.5714285714285714
+IQ Mensa 0.0
+Union Jack flag 0.9473684210526315
+earthquake tremor 0.9333333333333333
+asset stock 0.42857142857142855
+Hebrew Jerusalem 0.0
+overcast forecast 0.26666666666666666
+dictionary encyclopedia 0.88
+mint museum 0.5882352941176471
+chair stool 0.9
+Spanish moisture 0.3076923076923077
+can bottle 0.8333333333333334
+fly ant 0.8333333333333334
+myth satire 0.4
+city center bus 0.35294117647058826
+tail Boeing 747-200 0.0
+artwork artist 0.18181818181818182
+NATO alliance 0.8571428571428571
+king ruler 0.8333333333333334
+rhythm cadence 0.5
+Alexander Fleming Penicillin 0.0
+flute music 0.2857142857142857
+gray heron lake 0.0
+viscosity splash 0.46153846153846156
+hardware case 0.8
+ring engagement 0.7142857142857143
+Latin German 0.7692307692307693
+working class plant 0.23529411764705882
+Shakespeare Dickens 0.0
+paper money priest 0.26666666666666666
+tool job 0.6666666666666666
+pygmy hog suidae 0.0
+suffrage exit 0.3157894736842105
+star brightness 0.47058823529411764
+trout guitar 0.34782608695652173
+dollar millionaire 0.16666666666666666
+digit number 0.8333333333333334
+gale blanket 0.23529411764705882
+Obama Clinton 0.0
+supporting character movie 0.0
+Juventus Bayern Munich 0.0
+climate change precipitation 0.6666666666666666
+AI battery 0.7058823529411765
+masterpiece Mona Lisa 0.0
+crime attack 0.9473684210526315
+coronation water 0.15384615384615385
+vocalist staff 0.26666666666666666
+playoff basketball 0.47058823529411764
+armed forces defence 0.7692307692307693
+lake cloud 0.3333333333333333
+monastery shower 0.5263157894736842
+mother tongue language 0.8
+harbor wrapper 0.625
+demon angel 0.7777777777777778
+cryptogram symbol 0.5454545454545454
+campus university 0.35294117647058826
+freedom liberty 0.9090909090909091
+typhoon cyclone 0.9523809523809523
+handbook guidebook 0.96
+Ebola Ebola virus 0.09523809523809523
+princess biscuit 0.26666666666666666
+train tram 0.8235294117647058
+ecosystem economy 0.8
+queen regnant chess queen 0.0
+gold zinc 0.8
+cursor chips 0.2222222222222222
+Amazon forest 0.35294117647058826
+tennis statistics 0.2857142857142857
+Bolzano theorem 0.0
+altitude conversion 0.3076923076923077
+boat tree 0.42105263157894735
+throne sword 0.5555555555555556
+cotton sweater 0.625
+cherry strawberry 0.8235294117647058
+Islam Quran 0.0
+Neanderthal sport 0.5454545454545454
+nepotism king 0.25
+character person 0.8
+tank car 0.9
+Mercury Jupiter 0.0
+bronchitis acetaminophen 0.1
+blood body 0.6666666666666666
+islamophobia ISIS 0.0
+crochet uniform 0.625
+Hadoop touchscreen 0.0
+fossil fuel fossil 0.36363636363636365
+mutant sociobiology 0.10526315789473684
+sister brother 0.875
+pencil story 0.625
+eczema dermatitis 0.96
+emperor governor 0.5714285714285714
+crown key 0.8235294117647058
+algebra operation 0.5
+piston engine 0.7368421052631579
+scholarship tuition 0.5
+book manuscript 0.7692307692307693
+lantana snapdragon 0.6666666666666666
+black hole vacuum 0.8333333333333334
+Persian Empire Cyrus 0.0
+editorial news 0.4
+decoration envelope 0.7142857142857143
+whale shark lobster 0.5185185185185185
+corn maize 1.0
+bipolar disorder problem 0.5882352941176471
+acid base 0.875
+absolute zero vapor 0.16666666666666666
+Green Revolution paint 0.13333333333333333
+operating system deep learning 0.0
+International Mathematical Olympiad theory 0.0
+El Niño equator 0.0
+badge glass 0.25
+mansion sculptor 0.3076923076923077
+atmosphere ozone 0.8333333333333334
+shield buckler 1.0
+coin payment 0.25
+oat field 0.4
+monk cross 0.2857142857142857
+gunboat coast 0.3333333333333333
+rock mine 0.6153846153846154
+legend moral 0.4
+champion winner 0.7692307692307693
+dice cube 0.9333333333333333
+topology structure 0.7142857142857143
+chapel cable 0.5882352941176471
+cash flow river 0.125
+serial killer murderer 0.9230769230769231
+matrix molecule 0.7692307692307693
+fashion style 1.0
+vexillology flag 0.0
+Maastricht Treaty Europe 0.0
+geyser spring 0.9090909090909091
+sucrose carbohydrate 0.26666666666666666
+beach coast 0.7272727272727273
+stock market stock exchange 1.0
+tradition handicraft 0.4
+novel writer 0.26666666666666666
+sandwich Subway 0.21052631578947367
+acoustics sound 0.4
+fencing gymnastics 0.47058823529411764
+writer gift 0.15384615384615385
+woodland Tiger Woods 0.0
+cloud window 0.4
+JPEG PDF 0.0
+director boss 0.875
+tax Brexit 0.0
+pollination stamen 0.1111111111111111
+videogame pc game 0.0
+treatment surgical operation 0.6666666666666666
+paddy potato 0.7058823529411765
+note-taking assignment 0.0
+fox blood cell 0.45454545454545453
+sodium chloride salt 0.8235294117647058
+income quality of life 0.2222222222222222
+will intention 0.9333333333333333
+compass elephant 0.4444444444444444
+sequel camera 0.11764705882352941
+movie film 1.0
+sergeant gun 0.5333333333333333
+mill seed 0.42105263157894735
+ice cream breakfast 0.6666666666666666
+key lock 0.8421052631578947
+cellphone telephone 0.9
+kindergarten preschool 0.9411764705882353
+Western world Western Union 0.0
+seedling leaf 0.4444444444444444
+rain hail 0.9
+happiness sadness 0.8333333333333334
+silkworm caterpillar 0.9473684210526315
+surfing water sport 0.9473684210526315
+car truck 0.9090909090909091
+food program 0.7692307692307693
+graphic novel comic book 0.0
+snake lizard 0.88
+pineapple smartphone 0.0
+wallpaper background 0.23529411764705882
+Celsius Microsoft 0.0
+combine sugarcane 0.38095238095238093
+jeans woman 0.0
+matrix vector 0.36363636363636365
+carbon dioxide CO2 1.0
+coach player 0.6666666666666666
+stone wood 0.7692307692307693
+charger disk 0.8235294117647058
+manuscript article 0.7692307692307693
+Gmail Yahoo 0.0
+capacitor diode 0.7368421052631579
+corruption fraud 0.5555555555555556
+Coca-Cola Coke 0.0
+Plato Aristotle 0.0
+Cold War Soviet Union 0.0
+nozzle fluid 0.3333333333333333
+phonology screen 0.19047619047619047
+Zara leggings 0.0
+football soccer 0.9523809523809523
+germ pathogen 0.3076923076923077
+republic duke 0.13333333333333333
+ball sphere 0.9230769230769231
+Mozart Star Wars 0.0
+mask party 0.9333333333333333
+Grand Theft Auto GTA 0.0
+highway road 0.9333333333333333
+chain reaction thermodynamics 0.11764705882352941
+illustration blister 0.3076923076923077
+anthropology archaeology 0.9523809523809523
+Dell Dingle 1.0
+juice spoon 0.26666666666666666
+Pfizer drug 0.0
+truck parcel 0.7777777777777778
+receptor protein molecule 0.46153846153846156
+Google Drive driver 0.0
+billionaire homeless 0.6666666666666666
+episode chapter 0.9230769230769231
+infinity zero 0.4
+servant slave 0.8333333333333334
+suffix affix 0.75
+global warming heat 0.4
+growth hormone somatotropin 1.0
+sky dream 0.15384615384615385
+bid price London 0.0
+fertilizer growth 0.36363636363636365
+hashtag topic 0.0
+Orion constellation 0.25
+Nietzsche Chelsea 0.0
+mutual respect competition 0.0
+branch arm 1.0
+victim phone 0.2857142857142857
+standard deviation accumulation 0.3
+avalanche snow 0.15384615384615385
+teacher student 0.5714285714285714
+cattle yogurt 0.17391304347826086
+sexism gender discrimination 0.0
+South Pole dance 0.0
+prosecutor lawyer 0.5333333333333333
+racket ball 0.6666666666666666
+bank loan debt 0.8571428571428571
+perspective distance 0.46153846153846156
+Federer Dylan 0.0
+lawyer gallery 0.26666666666666666
+life expectancy statistical measure 0.0
+cell membrane provirus 0.19047619047619047
+European Union Moscow 0.0
+world Asia 0.6666666666666666
+Paint Photoshop 0.0
+senate constitution 0.3076923076923077
+parsley muffin 0.3157894736842105
+mind brain 1.0
+Mercedes Opel 0.0
+hammer teeth 0.23529411764705882
+Renaissance Renascence 1.0
+skirt watch 0.5263157894736842
+opera cinema 0.8888888888888888
+teacher instructor 1.0
+Sun cable 0.5
+recession GDP 0.42857142857142855
+Caesar Julius Caesar 1.0
+patient session 0.375
+behaviourism therapy 0.2727272727272727
+emperor constitution 0.16666666666666666
+mathematician show 0.16666666666666666
+entropy information 1.0
+rosewater rose oil 0.0
+citrus fruit grapefruit 0.9411764705882353
+Queen Victoria England 0.0
+Olympic Games spirit 0.375
+bishop muslim 0.25
+man suspect 0.8
+meteorite Earth 0.5
+symbol sign 0.8888888888888888
+anthropology New York 0.0
+sunset table 0.3076923076923077
+town city 0.8888888888888888
+jacket mineral water 0.375
+nature flora 0.5714285714285714
+subroutine compiler 0.8421052631578947
+Hamadan Rome 0.0
+umbrella heater 0.5555555555555556
+honor esteem 0.9333333333333333
+insignia dignity 0.23529411764705882
+KFC McDonald's 0.0
+joystick radar 0.7
+basmati jasmine rice 0.0
+medal trainers 0.0
+law swimming pool 0.15384615384615385
+source box 0.6666666666666666
+theatre battery 0.631578947368421
+flora web browser 0.25
+shirt cardigan 0.8421052631578947
+poem rhythm 0.42857142857142855
+prophet priest 0.6153846153846154
+Oscars stadium 0.0
+backgammon Go 0.9
+butterfly rose 0.5217391304347826
+fence jumping 0.125
+nihilism film 0.4
+asteroid star 0.8
+riot drawing 0.6
+underwear body 0.5882352941176471
+Boeing plane 0.0
+cameo performance 0.2222222222222222
+semester term 0.8571428571428571
+orange citrus 0.9629629629629629
+glacier global warming 0.3076923076923077
+tunnel path 0.75

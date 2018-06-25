@@ -58,7 +58,6 @@ fun disambiguate(frase: String, parola:String, stopSet: MutableSet<String>){
         var synsetList = by.getOutgoingEdges(BabelPointer.HYPONYM)
         //synsetList.addAll(by.getOutgoingEdges(BabelPointer.HYPONYM))
         //synsetList.addAll(by.getOutgoingEdges(BabelPointer.ANY_MERONYM))
-        //synsetList.addAll(by.getOutgoingEdges(BabelPointer.PERTAINYM))
         //synsetList.addAll(by.getOutgoingEdges(BabelPointer.WIKIDATA_HYPERNYM))
         synsetList.addAll(by.getOutgoingEdges(BabelPointer.WIKIDATA_HYPONYM))
         var glossesSet = mutableSetOf<String>()

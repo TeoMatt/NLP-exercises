@@ -5,12 +5,18 @@ import ex3.tt4j.TreeTaggerWrapper
 import org.omg.CORBA.Object
 import java.io.File
 import java.io.PrintWriter
+import java.text.BreakIterator
 import kotlin.math.ceil
 import kotlin.math.sqrt
+import java.util.Locale
+
+
 
 fun main(args: Array<String>) {
 
+
     var nasari = mutableMapOf<String,Pair<String, MutableMap<String, Double>>>()
+    val summarizationFactor = 30.0/100.0
 
     initializeNasari(nasari)
 
@@ -39,12 +45,12 @@ fun main(args: Array<String>) {
         if(!it.startsWith("#") && !it.startsWith("\n") && !it.equals("")) doc3.add(it)
     }
 
-    var p = processDocument(doc3, nasari, stopSet).toMutableList()
+    var p = processDocument(doc1, nasari, stopSet).toMutableList()
     p.forEach {
         println(it)
     }
 
-    var daTogliere = ceil((p.size-1).toDouble()*30.0/100.0).toInt()
+    var daTogliere = ceil((p.size-1).toDouble()*summarizationFactor).toInt()
     println(p.size)
     println(daTogliere)
     var min = 1.0
@@ -59,11 +65,11 @@ fun main(args: Array<String>) {
         }
         p.removeAt(target)
         println(p.size)
-        println("ho rimosso il $target")
+        println("ho rimosso il ${target}")
         min = 1.0
     }
 
-    var file = File("./files/ex4/results.txt")
+    var file = File("./files/ex4/results1.txt")
     var writer = PrintWriter(file)
 
     for (j in p){
@@ -95,8 +101,12 @@ fun initializeNasari(nasari: MutableMap<String,Pair<String, MutableMap<String, D
 fun processDocument(doc: List<String>, nasari: MutableMap<String,Pair<String, MutableMap<String, Double>>>, stopSet: Set<String>): List<Triple<String, Set<String>, Map<String, Double>>> {
 
     var processedD = mutableListOf<Triple<String, Set<String>, MutableMap<String, Double>>>()
+    val currentLocale = Locale("en", "US")
+    val wordIterator = BreakIterator.getWordInstance(currentLocale)
 
-    var titSet = getLemmatizedSet(doc[0].toLowerCase()).minus(stopSet).minus("").toMutableSet()
+    var titSet = getLemmatizedSet(/*extractWords(*/doc[0].toLowerCase()/*, wordIterator)*/).toMutableSet().minus(stopSet).minus("").toMutableSet()
+    //var titSet = getLemmatizedSet(doc[0].toLowerCase()).minus(stopSet).minus("").toMutableSet()
+    println(titSet.toList())
     titSet.forEach {
         if (nasari[it] == null){
             titSet = titSet.minus(it).toMutableSet()
@@ -110,7 +120,7 @@ fun processDocument(doc: List<String>, nasari: MutableMap<String,Pair<String, Mu
 
         var intAv = 0.0
         var toRemove = mutableSetOf<String>()
-        var s = getLemmatizedSet(doc[i].toLowerCase()).minus(stopSet).minus("").toMutableSet()
+        var s = getLemmatizedSet(doc[i].toLowerCase())/*extractWords(doc[0].toLowerCase(), wordIterator)*/.minus(stopSet).minus("").toMutableSet()
         s.forEach {
             if (nasari[it] == null){
                 toRemove = toRemove.plus(it).toMutableSet()
@@ -163,8 +173,8 @@ fun processDocument(doc: List<String>, nasari: MutableMap<String,Pair<String, Mu
                 titAv += weightedOverlap(nasari[it]!!.second, nasari[it2]!!.second)
             }
         }
-
-        processedD[i].third["tit"] = titAv/(processedD[i].second.size+processedD[0].second.size)
+        //DIVIDENDO PER processedD[i].second.size ANDIAMO A PESARE I RISULATTI OTTENUTI PER IL NUMERO DI VETTORI NASARI USATI
+        processedD[i].third["tit"] = (titAv/(processedD[i].second.size+processedD[0].second.size))///processedD[i].second.size
 
     }
 
@@ -214,4 +224,32 @@ fun getLemmatizedSet(it: String): MutableSet<String>{
         tt.destroy()
         return fraseLemmatizzata
     }
+}
+
+fun extractWords(target: String, wordIterator: BreakIterator): MutableSet<String> {
+
+    wordIterator.setText(target)
+    var start = wordIterator.first()
+    var end = wordIterator.next()
+    var wordset = mutableSetOf<String>()
+
+    while (end != BreakIterator.DONE) {
+        val word = target.substring(start, end)
+        if (Character.isLetterOrDigit(word[0])) {
+            wordset = wordset.plus(word).toMutableSet()
+        }
+        start = end
+        end = wordIterator.next()
+    }
+
+    return wordset
+}
+
+fun wordExamples(stopSet: Set<String>) {
+
+    val currentLocale = Locale("en", "US")
+    val wordIterator = BreakIterator.getWordInstance(currentLocale)
+    val someText = "Dream the impossible – and go out and make it happen. I walked on the moon. What can’t you do?” These are the final words spoken by Eugene (Gene) Cernan in the documentary film The Last Man on the Moon. They are a challenge, spoken by a man in his 80s, not just to his grandchildren, but to all of us.".toLowerCase()
+
+    println(extractWords(someText, wordIterator).toMutableSet().minus(stopSet).minus("").toMutableSet().toList())
 }
