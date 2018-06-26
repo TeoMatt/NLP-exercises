@@ -25,7 +25,7 @@ fun main(args: Array<String>) {
     wordList.forEach {
         var p1 = it.split("\t")[0]
         var p2 = it.split("\t")[1]
-        var res = concSimilarityDebug(p1, p2)
+        var res = concSimilarity(p1, p2)
         println("La conc similarity maggiore è ${res}\n")
         println("----------------------------------------------------------------------------------------------------")
         println("----------------------------------------------------------------------------------------------------\n")
@@ -40,7 +40,7 @@ fun main(args: Array<String>) {
 
 }
 
-fun concSimilarityDebug(p1: String, p2:String): Double{
+fun concSimilarity(p1: String, p2:String): Double{
 
     dict.open()
 
@@ -74,7 +74,7 @@ fun concSimilarityDebug(p1: String, p2:String): Double{
             println("\nStiamo analizzando il senso in cui il primo sysnset è $s1 e il secondo è $s2")
             writer.println("\nStiamo analizzando il senso in cui il primo sysnset è $s1 e il secondo è $s2")
 
-            var newcs = concSimDebug(s1, s2)
+            var newcs = concSim(s1, s2)
             println(newcs)
             writer.println(newcs)
             if (newcs >= cs){
@@ -126,7 +126,7 @@ fun getSy(noun: IWordID): ISynset? {
 
 }
 
-fun concSimDebug(s1: ISynset, s2: ISynset): Double {
+fun concSim(s1: ISynset, s2: ISynset): Double {
 
     var l1 = allSeqToEntity(s1)
     var l2 = allSeqToEntity(s2)

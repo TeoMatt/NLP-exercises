@@ -36,7 +36,7 @@ For this exercise I visited BabelNet structure using the Java APIs. Similarly as
 ## Ex4
 **Automatic Summarization**
 
-For this exercise I used NASARI vectors to operate an automatic summarization on the 3 given texts. To determine which paragraphs were to delete I used 3 values: the first one is a measure of the internal cohesion of the paragraph, the second one is a measure of the cohesion with the other paragraphs and the last one is the cohesion with the title. Every measure has been calculated through a weighted overlap formula, considering the rank of the overlapping dimensions in the NASARI vectors. I based the decision to maintain or delete a paragraph on a mean of these three values. The value `summarizationFactor` can be used to decide how many paragraph are to remove.
+For this exercise I used NASARI vectors to operate an automatic summarization on the 3 given texts. To determine which paragraphs were to delete I used 3 values: the first one is a measure of the internal coherence of the paragraph, the second one is a measure of the coherence with the other paragraphs and the last one is the coherence with the title. Every measure has been calculated through a weighted overlap formula, considering the rank of the overlapping dimensions in the NASARI vectors. I based the decision to maintain or delete a paragraph on a mean of these three values. The value `summarizationFactor` can be used to decide how many paragraph are to remove.
 
 I decided to consider a paragraph approach and not a sentence approach because of the reduced NASARI resource I used, in which I couldn't find many of the words I had to analyze. The result was that some paragraphs had only one vector to use in the comparisons.
 
