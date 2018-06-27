@@ -128,12 +128,17 @@ fun processDocument(doc: List<String>, nasari: MutableMap<String,Pair<String, Mu
         }
         processedD.add(Triple(doc[i], s.minus(toRemove).toMutableSet(), mutableMapOf("int" to 0.0, "ext" to 0.0, "tit" to 0.0)))
 
+        if(processedD[i].second.size == 1){
+            processedD[i].third["int"] = weightedOverlap(nasari[processedD[i].second.first()]!!.second, nasari[processedD[i].second.first()]!!.second)
+        }else{
+
         for (it in processedD[i].second) {
             for (it2 in processedD[i].second){
                 intAv += weightedOverlap(nasari[it]!!.second, nasari[it2]!!.second)
             }
         }
-        processedD[i].third["int"] = intAv/(processedD[i].second.size*2.0)
+            
+        processedD[i].third["int"] = intAv/(processedD[i].second.size*2.0)}
 
     }
 
@@ -173,8 +178,8 @@ fun processDocument(doc: List<String>, nasari: MutableMap<String,Pair<String, Mu
                 titAv += weightedOverlap(nasari[it]!!.second, nasari[it2]!!.second)
             }
         }
-        //DIVIDENDO PER processedD[i].second.size ANDIAMO A PESARE I RISULATTI OTTENUTI PER IL NUMERO DI VETTORI NASARI USATI
-        processedD[i].third["tit"] = (titAv/(processedD[i].second.size+processedD[0].second.size))///processedD[i].second.size
+
+        processedD[i].third["tit"] = (titAv/(processedD[i].second.size+processedD[0].second.size))
 
     }
 
